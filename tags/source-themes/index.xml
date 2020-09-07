@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Source Themes | Shuhuai Ren</title>
-    <link>/tags/source-themes/</link>
-      <atom:link href="/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://renshuhuai-andy.github.io/tags/source-themes/</link>
+      <atom:link href="https://renshuhuai-andy.github.io/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>shuhuairen.io © 2019</copyright><lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://renshuhuai-andy.github.io/img/icon-192.png</url>
       <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
+      <link>https://renshuhuai-andy.github.io/tags/source-themes/</link>
     </image>
     
     <item>
       <title>Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency</title>
-      <link>/publication/conference-paper/</link>
+      <link>https://renshuhuai-andy.github.io/publication/conference-paper/</link>
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
+      <guid>https://renshuhuai-andy.github.io/publication/conference-paper/</guid>
       <description></description>
     </item>
     

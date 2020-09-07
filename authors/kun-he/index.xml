@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kun He* | Shuhuai Ren</title>
-    <link>/authors/kun-he/</link>
-      <atom:link href="/authors/kun-he/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://renshuhuai-andy.github.io/authors/kun-he/</link>
+      <atom:link href="https://renshuhuai-andy.github.io/authors/kun-he/index.xml" rel="self" type="application/rss+xml" />
     <description>Kun He*</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>shuhuairen.io © 2019</copyright><lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://renshuhuai-andy.github.io/img/icon-192.png</url>
       <title>Kun He*</title>
-      <link>/authors/kun-he/</link>
+      <link>https://renshuhuai-andy.github.io/authors/kun-he/</link>
     </image>
     
     <item>
       <title>Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency</title>
-      <link>/publication/conference-paper/</link>
+      <link>https://renshuhuai-andy.github.io/publication/conference-paper/</link>
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
+      <guid>https://renshuhuai-andy.github.io/publication/conference-paper/</guid>
       <description></description>
     </item>
     
