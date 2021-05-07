@@ -5,7 +5,7 @@
     <link>https://renshuhuai-andy.github.io/publication/</link>
       <atom:link href="https://renshuhuai-andy.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>shuhuairen.io © 2019</copyright><lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>shuhuairen.io © 2019</copyright>
     <image>
       <url>https://renshuhuai-andy.github.io/img/icon-192.png</url>
       <title>Publications</title>
@@ -25,22 +25,6 @@
       <link>https://renshuhuai-andy.github.io/publication/pwws/</link>
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://renshuhuai-andy.github.io/publication/pwws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://renshuhuai-andy.github.io/publication/journal-article/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://renshuhuai-andy.github.io/publication/journal-article/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://renshuhuai-andy.github.io/publication/preprint/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://renshuhuai-andy.github.io/publication/preprint/</guid>
       <description></description>
     </item>
     
