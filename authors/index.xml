@@ -5,7 +5,7 @@
     <link>https://renshuhuai-andy.github.io/authors/</link>
       <atom:link href="https://renshuhuai-andy.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>shuhuairen.io © 2019</copyright><lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>shuhuairen.io © 2019</copyright><lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://renshuhuai-andy.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,56 @@
     <item>
       <title>&lt;b&gt;Shuhuai Ren&lt;/b&gt;</title>
       <link>https://renshuhuai-andy.github.io/authors/bshuhuai-ren/b/</link>
-      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://renshuhuai-andy.github.io/authors/bshuhuai-ren/b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Yang</title>
+      <link>https://renshuhuai-andy.github.io/authors/an-yang/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://renshuhuai-andy.github.io/authors/an-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guangxiang Zhao</title>
+      <link>https://renshuhuai-andy.github.io/authors/guangxiang-zhao/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://renshuhuai-andy.github.io/authors/guangxiang-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hongxia Yang</title>
+      <link>https://renshuhuai-andy.github.io/authors/hongxia-yang/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://renshuhuai-andy.github.io/authors/hongxia-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junyang Lin</title>
+      <link>https://renshuhuai-andy.github.io/authors/junyang-lin/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://renshuhuai-andy.github.io/authors/junyang-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rui Men</title>
+      <link>https://renshuhuai-andy.github.io/authors/rui-men/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://renshuhuai-andy.github.io/authors/rui-men/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xu Sun*</title>
+      <link>https://renshuhuai-andy.github.io/authors/xu-sun/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://renshuhuai-andy.github.io/authors/xu-sun/</guid>
       <description></description>
     </item>
     
@@ -55,7 +103,7 @@ Before that, I was an undergraduate student in Software Engineering in Huazhong 
 &lt;p&gt;My research interests lie within Natural Language Processing, particularly in Text Classification and Language Generation.
 I&amp;rsquo;m also involved in Deep Learning problems like Adversarial Examples.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;E-mail&lt;/strong&gt;: renshuhuai007@gmail.com&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;E-mail&lt;/strong&gt;: renshuhuai007 [AT] gmail [DOT] com&lt;/p&gt;
 </description>
     </item>
     
