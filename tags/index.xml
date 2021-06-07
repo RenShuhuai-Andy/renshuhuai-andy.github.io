@@ -5,7 +5,7 @@
     <link>https://renshuhuai-andy.github.io/tags/</link>
       <atom:link href="https://renshuhuai-andy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>shuhuairen.io © 2019</copyright><lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>shuhuairen.io © 2021</copyright><lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://renshuhuai-andy.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>Source Themes</title>
-      <link>https://renshuhuai-andy.github.io/tags/source-themes/</link>
+      <title>First Author</title>
+      <link>https://renshuhuai-andy.github.io/tags/first-author/</link>
       <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://renshuhuai-andy.github.io/tags/source-themes/</guid>
+      <guid>https://renshuhuai-andy.github.io/tags/first-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not First Author</title>
+      <link>https://renshuhuai-andy.github.io/tags/not-first-author/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://renshuhuai-andy.github.io/tags/not-first-author/</guid>
       <description></description>
     </item>
     

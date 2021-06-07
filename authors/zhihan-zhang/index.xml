@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhihan Zhang | Shuhuai Ren</title>
+    <link>https://renshuhuai-andy.github.io/authors/zhihan-zhang/</link>
+      <atom:link href="https://renshuhuai-andy.github.io/authors/zhihan-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhihan Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>shuhuairen.io © 2021</copyright><lastBuildDate>Fri, 31 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://renshuhuai-andy.github.io/img/icon-192.png</url>
+      <title>Zhihan Zhang</title>
+      <link>https://renshuhuai-andy.github.io/authors/zhihan-zhang/</link>
+    </image>
+    
+    <item>
+      <title>DCA: Diversified Co-Attention towards Informative Live Video Commenting</title>
+      <link>https://renshuhuai-andy.github.io/publication/dca/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://renshuhuai-andy.github.io/publication/dca/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

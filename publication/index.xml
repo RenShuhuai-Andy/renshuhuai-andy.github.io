@@ -5,7 +5,7 @@
     <link>https://renshuhuai-andy.github.io/publication/</link>
       <atom:link href="https://renshuhuai-andy.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>shuhuairen.io © 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>shuhuairen.io © 2021</copyright>
     <image>
       <url>https://renshuhuai-andy.github.io/img/icon-192.png</url>
       <title>Publications</title>
@@ -17,6 +17,22 @@
       <link>https://renshuhuai-andy.github.io/publication/iais/</link>
       <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://renshuhuai-andy.github.io/publication/iais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Pre-trained Language Models via Calibrated Cascade</title>
+      <link>https://renshuhuai-andy.github.io/publication/cascadebert/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://renshuhuai-andy.github.io/publication/cascadebert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DCA: Diversified Co-Attention towards Informative Live Video Commenting</title>
+      <link>https://renshuhuai-andy.github.io/publication/dca/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://renshuhuai-andy.github.io/publication/dca/</guid>
       <description></description>
     </item>
     
