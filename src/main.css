@@ -222,12 +222,12 @@ hr {
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 200px;
+  height: 250px;
   background-color: #dddddd;
 }
 
 .footer > .container {
-  padding-top: 80px;
+  padding-top: 30px;
   padding-right: 30px;
   padding-left: 30px;
   text-align: center;
