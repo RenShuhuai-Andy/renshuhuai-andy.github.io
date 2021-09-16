@@ -102,7 +102,10 @@ a:hover{
 }
 
 .social-links {
- /* float: right;*/
+  float: left;
+  font-size: 15px !important;
+  padding-right: 15px !important;
+  text-align: center;
 }
 
 .social-links > a {
